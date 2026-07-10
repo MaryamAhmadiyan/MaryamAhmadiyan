@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MaryamAhmadiyan](https://github.com/MaryamAhmadiyan)
 
-- 💬 Ask me about **Css3,Html5**
+- 💬 Ask me about **Css3,Html5,Bootstrap, Tailwind , Java Script , ReactJs**
 
 - 📫 How to reach me **maryamahmadiyan8013@gmail.com**
 
